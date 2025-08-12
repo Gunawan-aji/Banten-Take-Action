@@ -294,6 +294,7 @@ html {
     height: 300px; /* Atur tinggi yang Anda inginkan, contoh: 400px */
     object-fit: cover; /* Penting! Ini akan memotong gambar agar pas tanpa distorsi */
     width: 100%; /* Pastikan lebar tetap 100% dari kolom */
+    margin-bottom: 3rem;
 }
 
 /* ===== FOOTER SECTION ===== */
